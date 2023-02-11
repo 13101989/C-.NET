@@ -1,0 +1,26 @@
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/bin/Debug/netcoreapp2.2/MyInvoice.deps.json
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/bin/Debug/netcoreapp2.2/MyInvoice.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/bin/Debug/netcoreapp2.2/MyInvoice.runtimeconfig.dev.json
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/bin/Debug/netcoreapp2.2/MyInvoice.dll
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/bin/Debug/netcoreapp2.2/MyInvoice.pdb
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.dll
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.pdb
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice (1)/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.genruntimeconfig.cache
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/bin/Debug/netcoreapp2.2/MyInvoice.deps.json
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/bin/Debug/netcoreapp2.2/MyInvoice.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/bin/Debug/netcoreapp2.2/MyInvoice.runtimeconfig.dev.json
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/bin/Debug/netcoreapp2.2/MyInvoice.dll
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/bin/Debug/netcoreapp2.2/MyInvoice.pdb
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.dll
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.pdb
+/Users/home/Desktop/cursC#/sesiunea_6/MyInvoice/MyInvoice/obj/Debug/netcoreapp2.2/MyInvoice.genruntimeconfig.cache

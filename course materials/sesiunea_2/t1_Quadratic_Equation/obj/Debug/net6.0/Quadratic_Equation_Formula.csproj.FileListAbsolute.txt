@@ -1,0 +1,30 @@
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/bin/Debug/net6.0/Quadratic_Equation_Formula
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/bin/Debug/net6.0/Quadratic_Equation_Formula.deps.json
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/bin/Debug/net6.0/Quadratic_Equation_Formula.runtimeconfig.json
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/bin/Debug/net6.0/Quadratic_Equation_Formula.dll
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/bin/Debug/net6.0/Quadratic_Equation_Formula.pdb
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.csproj.AssemblyReference.cache
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.AssemblyInfoInputs.cache
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.AssemblyInfo.cs
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.dll
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/refint/Quadratic_Equation_Formula.dll
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.pdb
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.genruntimeconfig.cache
+/Users/home/Desktop/curs C#/sesiunea 2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/ref/Quadratic_Equation_Formula.dll
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/bin/Debug/net6.0/Quadratic_Equation_Formula
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/bin/Debug/net6.0/Quadratic_Equation_Formula.deps.json
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/bin/Debug/net6.0/Quadratic_Equation_Formula.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/bin/Debug/net6.0/Quadratic_Equation_Formula.dll
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/bin/Debug/net6.0/Quadratic_Equation_Formula.pdb
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.dll
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/refint/Quadratic_Equation_Formula.dll
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.pdb
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/Quadratic_Equation_Formula.genruntimeconfig.cache
+/Users/home/Desktop/cursC#/sesiunea_2/homework/Quadratic_Equation_Formula/obj/Debug/net6.0/ref/Quadratic_Equation_Formula.dll

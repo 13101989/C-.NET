@@ -1,0 +1,15 @@
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/obj/Debug/net6.0/t2_palindrom_methods.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/obj/Debug/net6.0/t2_palindrom_methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/obj/Debug/net6.0/t2_palindrom_methods.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/obj/Debug/net6.0/t2_palindrom_methods.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/obj/Debug/net6.0/t2_palindrom_methods.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/bin/Debug/net6.0/t2_palindrom_methods
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/bin/Debug/net6.0/t2_palindrom_methods.deps.json
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/bin/Debug/net6.0/t2_palindrom_methods.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/bin/Debug/net6.0/t2_palindrom_methods.dll
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/bin/Debug/net6.0/t2_palindrom_methods.pdb
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/obj/Debug/net6.0/t2_palindrom_methods.dll
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/obj/Debug/net6.0/refint/t2_palindrom_methods.dll
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/obj/Debug/net6.0/t2_palindrom_methods.pdb
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/obj/Debug/net6.0/t2_palindrom_methods.genruntimeconfig.cache
+/Users/home/Desktop/cursC#/sesiunea_4/t2_palindrom_methods/obj/Debug/net6.0/ref/t2_palindrom_methods.dll

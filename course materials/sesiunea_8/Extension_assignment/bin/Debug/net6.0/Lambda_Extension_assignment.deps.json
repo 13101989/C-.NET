@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lambda_Extension_assignment/1.0.0": {
+        "runtime": {
+          "Lambda_Extension_assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lambda_Extension_assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/obj/Debug/net6.0/t5_class_student.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/obj/Debug/net6.0/t5_class_student.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/obj/Debug/net6.0/t5_class_student.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/obj/Debug/net6.0/t5_class_student.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/obj/Debug/net6.0/t5_class_student.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/bin/Debug/net6.0/t5_class_student
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/bin/Debug/net6.0/t5_class_student.deps.json
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/bin/Debug/net6.0/t5_class_student.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/bin/Debug/net6.0/t5_class_student.dll
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/bin/Debug/net6.0/t5_class_student.pdb
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/obj/Debug/net6.0/t5_class_student.dll
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/obj/Debug/net6.0/refint/t5_class_student.dll
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/obj/Debug/net6.0/t5_class_student.pdb
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/obj/Debug/net6.0/t5_class_student.genruntimeconfig.cache
+/Users/home/Desktop/cursC#/sesiunea_5/t5_class_student/obj/Debug/net6.0/ref/t5_class_student.dll

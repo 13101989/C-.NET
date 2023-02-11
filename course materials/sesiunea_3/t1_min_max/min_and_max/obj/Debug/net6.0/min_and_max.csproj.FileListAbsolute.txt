@@ -1,0 +1,15 @@
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/bin/Debug/net6.0/min_and_max
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/bin/Debug/net6.0/min_and_max.deps.json
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/bin/Debug/net6.0/min_and_max.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/bin/Debug/net6.0/min_and_max.dll
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/bin/Debug/net6.0/min_and_max.pdb
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/obj/Debug/net6.0/min_and_max.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/obj/Debug/net6.0/min_and_max.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/obj/Debug/net6.0/min_and_max.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/obj/Debug/net6.0/min_and_max.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/obj/Debug/net6.0/min_and_max.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/obj/Debug/net6.0/min_and_max.dll
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/obj/Debug/net6.0/refint/min_and_max.dll
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/obj/Debug/net6.0/min_and_max.pdb
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/obj/Debug/net6.0/min_and_max.genruntimeconfig.cache
+/Users/home/Desktop/cursC#/sesiunea_3/t1_min_max/min_and_max/obj/Debug/net6.0/ref/min_and_max.dll

@@ -1,0 +1,49 @@
+Exemplul 1.Simple store procedure
+CREATE PROCEDURE GetCustomerAdress 
+AS
+BEGIN
+	SELECT companyname, address from Customers
+END
+GO
+
+EXEC GetCustomerAdress 
+
+
+Exemplul 2. Store procedure with input parameter
+CREATE PROCEDURE GetCustomerAdresses @CompanyName nvarchar(30)
+AS
+BEGIN
+	SELECT companyname, address from Customers
+	where companyname = @CompanyName
+END
+GO
+
+EXEC GetCustomerAdresses @CompanyName = '...'
+
+
+Exemplul 3. Store procedure with ouput parameter
+CREATE PROCEDURE GetNumbersOfCategories @Number int output
+AS
+BEGIN
+	SELECT count(CategoryId) from Categories
+END
+GO
+
+DECLARE @count INT;
+EXEC GetNumbersOfCategories @count OUTPUT
+
+
+Exemplul 4. Store procedure with many parameters
+CREATE PROCEDURE GetNumberOfEmployeesFromCity (
+@City nvarchar(15), @Number int output)
+AS
+BEGIN
+	SELECT @Number = count(empId) from Employees
+	where city = @City
+END
+GO
+
+DECLARE @City nvarchar(15)
+DECLARE @Number INT;
+EXEC GetNumberOfEmployeesFromCity @City = 'London',  @Number = @Number OUTPUT
+SELECT @Number

@@ -1,0 +1,15 @@
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/bin/Debug/net6.0/DogWithExceptionsAssignment
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/bin/Debug/net6.0/DogWithExceptionsAssignment.deps.json
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/bin/Debug/net6.0/DogWithExceptionsAssignment.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/bin/Debug/net6.0/DogWithExceptionsAssignment.dll
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/bin/Debug/net6.0/DogWithExceptionsAssignment.pdb
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/obj/Debug/net6.0/DogWithExceptionsAssignment.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/obj/Debug/net6.0/DogWithExceptionsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/obj/Debug/net6.0/DogWithExceptionsAssignment.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/obj/Debug/net6.0/DogWithExceptionsAssignment.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/obj/Debug/net6.0/DogWithExceptionsAssignment.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/obj/Debug/net6.0/DogWithExceptionsAssignment.dll
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/obj/Debug/net6.0/refint/DogWithExceptionsAssignment.dll
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/obj/Debug/net6.0/DogWithExceptionsAssignment.pdb
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/obj/Debug/net6.0/DogWithExceptionsAssignment.genruntimeconfig.cache
+/Users/home/Desktop/cursC#/sesiunea_9/DogWithExceptionsAssignment/obj/Debug/net6.0/ref/DogWithExceptionsAssignment.dll

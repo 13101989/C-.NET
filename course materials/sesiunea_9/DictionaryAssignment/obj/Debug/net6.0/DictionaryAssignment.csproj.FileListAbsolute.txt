@@ -1,0 +1,15 @@
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/bin/Debug/net6.0/DictionaryAssignment
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/bin/Debug/net6.0/DictionaryAssignment.deps.json
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/bin/Debug/net6.0/DictionaryAssignment.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/bin/Debug/net6.0/DictionaryAssignment.dll
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/bin/Debug/net6.0/DictionaryAssignment.pdb
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/obj/Debug/net6.0/DictionaryAssignment.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/obj/Debug/net6.0/DictionaryAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/obj/Debug/net6.0/DictionaryAssignment.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/obj/Debug/net6.0/DictionaryAssignment.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/obj/Debug/net6.0/DictionaryAssignment.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/obj/Debug/net6.0/DictionaryAssignment.dll
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/obj/Debug/net6.0/refint/DictionaryAssignment.dll
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/obj/Debug/net6.0/DictionaryAssignment.pdb
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/obj/Debug/net6.0/DictionaryAssignment.genruntimeconfig.cache
+/Users/home/Desktop/cursC#/sesiunea_9/DictionaryAssignment/obj/Debug/net6.0/ref/DictionaryAssignment.dll

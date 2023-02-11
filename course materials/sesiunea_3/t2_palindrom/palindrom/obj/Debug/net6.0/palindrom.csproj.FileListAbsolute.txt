@@ -1,0 +1,15 @@
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/bin/Debug/net6.0/palindrom
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/bin/Debug/net6.0/palindrom.deps.json
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/bin/Debug/net6.0/palindrom.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/bin/Debug/net6.0/palindrom.dll
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/bin/Debug/net6.0/palindrom.pdb
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/obj/Debug/net6.0/palindrom.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/obj/Debug/net6.0/palindrom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/obj/Debug/net6.0/palindrom.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/obj/Debug/net6.0/palindrom.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/obj/Debug/net6.0/palindrom.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/obj/Debug/net6.0/palindrom.dll
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/obj/Debug/net6.0/refint/palindrom.dll
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/obj/Debug/net6.0/palindrom.pdb
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/obj/Debug/net6.0/palindrom.genruntimeconfig.cache
+/Users/home/Desktop/cursC#/sesiunea_3/t2_palindrom/palindrom/obj/Debug/net6.0/ref/palindrom.dll

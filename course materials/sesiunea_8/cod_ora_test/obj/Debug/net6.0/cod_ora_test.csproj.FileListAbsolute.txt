@@ -1,0 +1,15 @@
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/bin/Debug/net6.0/cod_ora_test
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/bin/Debug/net6.0/cod_ora_test.deps.json
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/bin/Debug/net6.0/cod_ora_test.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/bin/Debug/net6.0/cod_ora_test.dll
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/bin/Debug/net6.0/cod_ora_test.pdb
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/obj/Debug/net6.0/cod_ora_test.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/obj/Debug/net6.0/cod_ora_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/obj/Debug/net6.0/cod_ora_test.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/obj/Debug/net6.0/cod_ora_test.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/obj/Debug/net6.0/cod_ora_test.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/obj/Debug/net6.0/cod_ora_test.dll
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/obj/Debug/net6.0/refint/cod_ora_test.dll
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/obj/Debug/net6.0/cod_ora_test.pdb
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/obj/Debug/net6.0/cod_ora_test.genruntimeconfig.cache
+/Users/home/Desktop/cursC#/sesiunea_8/cod_ora_test/obj/Debug/net6.0/ref/cod_ora_test.dll

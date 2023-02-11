@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FD0C2989-5880-4DA6-808B-E778ECBE1590}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="min_max.cs">
+    <Files>
+      <File FileName="min_max.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="t1_min_max_with_methods" expanded="True">
+            <Node name="t1_min_max_with_methods" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.t1__min__max__with__methods PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

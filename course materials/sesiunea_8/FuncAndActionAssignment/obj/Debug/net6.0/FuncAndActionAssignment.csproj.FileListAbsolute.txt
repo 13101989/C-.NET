@@ -1,0 +1,15 @@
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/bin/Debug/net6.0/FuncAndActionAssignment
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/bin/Debug/net6.0/FuncAndActionAssignment.deps.json
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/bin/Debug/net6.0/FuncAndActionAssignment.runtimeconfig.json
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/bin/Debug/net6.0/FuncAndActionAssignment.dll
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/bin/Debug/net6.0/FuncAndActionAssignment.pdb
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/obj/Debug/net6.0/FuncAndActionAssignment.csproj.AssemblyReference.cache
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/obj/Debug/net6.0/FuncAndActionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/obj/Debug/net6.0/FuncAndActionAssignment.AssemblyInfoInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/obj/Debug/net6.0/FuncAndActionAssignment.AssemblyInfo.cs
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/obj/Debug/net6.0/FuncAndActionAssignment.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/obj/Debug/net6.0/FuncAndActionAssignment.dll
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/obj/Debug/net6.0/refint/FuncAndActionAssignment.dll
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/obj/Debug/net6.0/FuncAndActionAssignment.pdb
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/obj/Debug/net6.0/FuncAndActionAssignment.genruntimeconfig.cache
+/Users/home/Desktop/cursC#/sesiunea_8/FuncAndActionAssignment/obj/Debug/net6.0/ref/FuncAndActionAssignment.dll

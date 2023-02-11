@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7895AAB9-6816-4EF6-B77E-1682B59BC14D}|Default">
+  <MonoDevelop.Ide.ItemProperties.codeFirst PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SchoolContext.cs">
+    <Files>
+      <File FileName="Student.cs" Line="14" Column="1" />
+      <File FileName="Course.cs" Line="9" Column="6" />
+      <File FileName="SchoolContext.cs" Line="10" Column="53" />
+      <File FileName="Program.cs" Line="25" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="codeFirst" expanded="True">
+            <Node name="codeFirst" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

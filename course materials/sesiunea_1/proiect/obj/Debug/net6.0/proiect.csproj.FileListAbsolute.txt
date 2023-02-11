@@ -1,0 +1,15 @@
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/bin/Debug/net6.0/proiect
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/bin/Debug/net6.0/proiect.deps.json
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/bin/Debug/net6.0/proiect.runtimeconfig.json
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/bin/Debug/net6.0/proiect.dll
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/bin/Debug/net6.0/proiect.pdb
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/obj/Debug/net6.0/proiect.csproj.AssemblyReference.cache
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/obj/Debug/net6.0/proiect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/obj/Debug/net6.0/proiect.AssemblyInfoInputs.cache
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/obj/Debug/net6.0/proiect.AssemblyInfo.cs
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/obj/Debug/net6.0/proiect.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/obj/Debug/net6.0/proiect.dll
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/obj/Debug/net6.0/refint/proiect.dll
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/obj/Debug/net6.0/proiect.pdb
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/obj/Debug/net6.0/proiect.genruntimeconfig.cache
+/Users/home/Desktop/curs C#/sesiunea 1/proiect/obj/Debug/net6.0/ref/proiect.dll

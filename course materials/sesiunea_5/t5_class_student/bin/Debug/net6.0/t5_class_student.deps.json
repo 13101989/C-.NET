@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "t5_class_student/1.0.0": {
+        "runtime": {
+          "t5_class_student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "t5_class_student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

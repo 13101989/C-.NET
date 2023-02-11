@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{1E67C8C1-B50C-4A6E-A8BE-60476BAB41EE}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MyInvoice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyInvoice/Invoice.cs">
+    <Files>
+      <File FileName="MyInvoice/Customer.cs" Line="1" Column="1" />
+      <File FileName="MyInvoice/Program.cs" Line="51" Column="10" />
+      <File FileName="MyInvoice/Invoice.cs" Line="81" Column="52" />
+      <File FileName="MyInvoice/InvoiceItem.cs" Line="7" Column="35" />
+      <File FileName="MyInvoice/ProductType.cs" Line="7" Column="14" />
+      <File FileName="MyInvoice/Product.cs" Line="6" Column="6" />
+      <File FileName="MyInvoice/Supplier.cs" Line="9" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyInvoice" expanded="True">
+            <Node name="MyInvoice" expanded="True">
+              <Node name="Invoice.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,11 @@
+﻿using System;
+namespace codeFirst
+{
+    public class Course
+    {
+        public int Id { get; set; }
+
+        public string CourseName { get; set; }
+    }
+}
+
