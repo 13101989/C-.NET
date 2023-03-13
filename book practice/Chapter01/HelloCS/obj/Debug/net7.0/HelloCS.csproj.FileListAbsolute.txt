@@ -1,0 +1,15 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\bin\Debug\net7.0\HelloCS.exe
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\bin\Debug\net7.0\HelloCS.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\bin\Debug\net7.0\HelloCS.runtimeconfig.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\bin\Debug\net7.0\HelloCS.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\bin\Debug\net7.0\HelloCS.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\obj\Debug\net7.0\HelloCS.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\obj\Debug\net7.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\obj\Debug\net7.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\obj\Debug\net7.0\HelloCS.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\obj\Debug\net7.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\obj\Debug\net7.0\HelloCS.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\obj\Debug\net7.0\refint\HelloCS.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\obj\Debug\net7.0\HelloCS.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\obj\Debug\net7.0\HelloCS.genruntimeconfig.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\HelloCS\obj\Debug\net7.0\ref\HelloCS.dll

@@ -1,0 +1,5 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading\obj\Debug\net7.0\HotReloading.csproj.CoreCompileInputs.cache

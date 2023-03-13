@@ -1,0 +1,10 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryNetStandard2\bin\Release\netstandard2.0\PacktLibraryNetStandard2.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryNetStandard2\bin\Release\netstandard2.0\PacktLibraryNetStandard2.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryNetStandard2\bin\Release\netstandard2.0\PacktLibraryNetStandard2.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Release\netstandard2.0\PacktLibraryNetStandard2.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Release\netstandard2.0\PacktLibraryNetStandard2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Release\netstandard2.0\PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Release\netstandard2.0\PacktLibraryNetStandard2.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Release\netstandard2.0\PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Release\netstandard2.0\PacktLibraryNetStandard2.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryNetStandard2\obj\Release\netstandard2.0\PacktLibraryNetStandard2.pdb

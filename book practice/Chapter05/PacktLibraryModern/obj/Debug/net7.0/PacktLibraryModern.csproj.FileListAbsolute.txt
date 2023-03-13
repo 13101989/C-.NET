@@ -1,0 +1,12 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\obj\Debug\net7.0\refint\PacktLibraryModern.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter05\PacktLibraryModern\obj\Debug\net7.0\ref\PacktLibraryModern.dll

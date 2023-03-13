@@ -1,0 +1,15 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\obj\Debug\net7.0\HotReloading2.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\obj\Debug\net7.0\HotReloading2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\obj\Debug\net7.0\HotReloading2.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\obj\Debug\net7.0\HotReloading2.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\obj\Debug\net7.0\HotReloading2.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\bin\Debug\net7.0\HotReloading2.exe
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\bin\Debug\net7.0\HotReloading2.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\bin\Debug\net7.0\HotReloading2.runtimeconfig.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\bin\Debug\net7.0\HotReloading2.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\bin\Debug\net7.0\HotReloading2.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\obj\Debug\net7.0\HotReloading2.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\obj\Debug\net7.0\refint\HotReloading2.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\obj\Debug\net7.0\HotReloading2.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\obj\Debug\net7.0\HotReloading2.genruntimeconfig.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter04\HotReloading2\obj\Debug\net7.0\ref\HotReloading2.dll

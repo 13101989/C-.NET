@@ -1,0 +1,15 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.exe
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.runtimeconfig.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net7.0\AboutMyEnvironment.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\refint\AboutMyEnvironment.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\AboutMyEnvironment.genruntimeconfig.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net7.0\ref\AboutMyEnvironment.dll
