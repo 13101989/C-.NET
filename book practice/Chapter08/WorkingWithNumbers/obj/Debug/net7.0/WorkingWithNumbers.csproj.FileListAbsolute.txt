@@ -1,0 +1,15 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.exe
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.runtimeconfig.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\refint\WorkingWithNumbers.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.genruntimeconfig.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\WorkingWithNumbers\obj\Debug\net7.0\ref\WorkingWithNumbers.dll

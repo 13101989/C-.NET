@@ -1,0 +1,15 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\bin\Debug\net7.0\SourceLinks.exe
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\bin\Debug\net7.0\SourceLinks.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\bin\Debug\net7.0\SourceLinks.runtimeconfig.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\bin\Debug\net7.0\SourceLinks.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\bin\Debug\net7.0\SourceLinks.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\obj\Debug\net7.0\SourceLinks.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\obj\Debug\net7.0\SourceLinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\obj\Debug\net7.0\SourceLinks.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\obj\Debug\net7.0\SourceLinks.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\obj\Debug\net7.0\SourceLinks.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\obj\Debug\net7.0\SourceLinks.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\obj\Debug\net7.0\refint\SourceLinks.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\obj\Debug\net7.0\SourceLinks.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\obj\Debug\net7.0\SourceLinks.genruntimeconfig.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\SourceLinks\obj\Debug\net7.0\ref\SourceLinks.dll

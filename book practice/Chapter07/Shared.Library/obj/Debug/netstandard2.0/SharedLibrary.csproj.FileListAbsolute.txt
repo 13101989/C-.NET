@@ -1,0 +1,10 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\Shared.Library\bin\Debug\netstandard2.0\SharedLibrary.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\Shared.Library\bin\Debug\netstandard2.0\SharedLibrary.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\Shared.Library\bin\Debug\netstandard2.0\SharedLibrary.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\Shared.Library\obj\Debug\netstandard2.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\Shared.Library\obj\Debug\netstandard2.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\Shared.Library\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\Shared.Library\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\Shared.Library\obj\Debug\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\Shared.Library\obj\Debug\netstandard2.0\SharedLibrary.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter07\Shared.Library\obj\Debug\netstandard2.0\SharedLibrary.pdb

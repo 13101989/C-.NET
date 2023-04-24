@@ -1,0 +1,12 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\bin\Debug\net7.0\PracticePacktLibrary.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\bin\Debug\net7.0\PracticePacktLibrary.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\bin\Debug\net7.0\PracticePacktLibrary.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\obj\Debug\net7.0\PracticePacktLibrary.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\obj\Debug\net7.0\PracticePacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\obj\Debug\net7.0\PracticePacktLibrary.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\obj\Debug\net7.0\PracticePacktLibrary.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\obj\Debug\net7.0\PracticePacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\obj\Debug\net7.0\PracticePacktLibrary.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\obj\Debug\net7.0\refint\PracticePacktLibrary.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\obj\Debug\net7.0\PracticePacktLibrary.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter06\PracticePacktLibrary\obj\Debug\net7.0\ref\PracticePacktLibrary.dll

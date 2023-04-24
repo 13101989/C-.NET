@@ -1,0 +1,15 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\bin\Debug\net7.0\Practice1.exe
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\bin\Debug\net7.0\Practice1.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\bin\Debug\net7.0\Practice1.runtimeconfig.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\bin\Debug\net7.0\Practice1.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\bin\Debug\net7.0\Practice1.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\obj\Debug\net7.0\Practice1.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\obj\Debug\net7.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\obj\Debug\net7.0\Practice1.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\obj\Debug\net7.0\Practice1.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\obj\Debug\net7.0\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\obj\Debug\net7.0\Practice1.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\obj\Debug\net7.0\refint\Practice1.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\obj\Debug\net7.0\Practice1.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\obj\Debug\net7.0\Practice1.genruntimeconfig.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter08\Practice1\obj\Debug\net7.0\ref\Practice1.dll
