@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvYwv7v2VQVYC+oCH0/ZQCfMKE/2f2yzirnzMkdqBuhr3zl44vbHd8rZ18hrzGwDqn+d7j5/wN5GTaS7xh2UYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valen\\Desktop\\cs11dotnet7\\Chapter09\\PracticePacktLibrary\\Practice.Packt.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valen\\.nuget\\packages\\jsonsubtypes\\2.0.1\\jsonsubtypes.2.0.1.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

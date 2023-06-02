@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Shape xsi:type="Circle" Colour="Red" Radius="2.5" />
+  <Shape xsi:type="Rectangle" Colour="Blue" Height="20" Width="10" />
+  <Shape xsi:type="Circle" Colour="Green" Radius="8" />
+  <Shape xsi:type="Circle" Colour="Purple" Radius="12.3" />
+  <Shape xsi:type="Rectangle" Colour="Blue" Height="45" Width="18" />
+</ArrayOfShape>

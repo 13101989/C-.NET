@@ -1,0 +1,15 @@
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.exe
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.runtimeconfig.json
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfo.cs
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\refint\WorkingWithJson.dll
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.pdb
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.genruntimeconfig.cache
+C:\Users\valen\Desktop\cs11dotnet7\Chapter09\WorkingWithJson\obj\Debug\net7.0\ref\WorkingWithJson.dll

@@ -1,0 +1,29 @@
+[
+  {
+    "Radius": 2.5,
+    "Area": 19.63,
+    "Colour": "Red"
+  },
+  {
+    "Height": 20.0,
+    "Width": 10.0,
+    "Area": 200.0,
+    "Colour": "Blue"
+  },
+  {
+    "Radius": 8.0,
+    "Area": 201.06,
+    "Colour": "Green"
+  },
+  {
+    "Radius": 12.3,
+    "Area": 475.29,
+    "Colour": "Purple"
+  },
+  {
+    "Height": 45.0,
+    "Width": 18.0,
+    "Area": 810.0,
+    "Colour": "Blue"
+  }
+]
