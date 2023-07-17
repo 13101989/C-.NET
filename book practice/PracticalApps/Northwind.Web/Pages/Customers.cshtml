@@ -1,0 +1,33 @@
+﻿@page
+@using Microsoft.AspNetCore.Mvc.Routing
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using Packt.Shared
+@model Northwind.Web.Pages.CustomersModel
+<div class="row">
+  <h1 class="display-2">Customers</h1>
+  <table class="table">
+    <thead class="thead-inverse">
+      <tr>
+        <th>Company Name</th>
+        <th>Country</th>
+      </tr>
+    </thead>
+    <tbody>
+            @if (Model.Customers is not null)
+            {
+                @foreach (Customer s in Model.Customers)
+                {
+                <tr>
+                    <td>@s.CompanyName</td>
+                    <td>@s.Country</td>
+                    <td>        
+                        <p>
+                            <a class="btn btn-primary" href="customerinfo" asp-route-id="@s.CustomerId">More Info</a>
+                        </p>
+                    </td>
+                 </tr>
+                }
+            }
+    </tbody>
+  </table>
+</div>
