@@ -1,0 +1,20 @@
+﻿@model Packt.Shared.Customer
+@{
+    ViewData["Title"] = "Customer Detail - " + Model.CompanyName;
+}
+<h2>Product Detail</h2>
+<hr />
+<div>
+  <dl class="dl-horizontal">
+    <dt>Customer Id</dt>
+    <dd>@Model.CustomerId</dd>
+    <dt>Company Name</dt>
+    <dd>@Model.CompanyName</dd>
+    <dt>Country</dt>
+    <dd>@Model.Country</dd>
+    <dt>City</dt>
+    <dd>@Model.City</dd>
+    <dt>Adress</dt>
+    <dd>@Model.Address</dd>
+  </dl>
+</div>

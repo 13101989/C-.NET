@@ -10,6 +10,7 @@
       <tr>
         <th>Company Name</th>
         <th>Country</th>
+        <th>Details</th>
       </tr>
     </thead>
     <tbody>
@@ -20,9 +21,9 @@
                 <tr>
                     <td>@s.CompanyName</td>
                     <td>@s.Country</td>
-                    <td>        
+                    <td>
                         <p>
-                            <a class="btn btn-primary" href="customerinfo" asp-route-id="@s.CustomerId">More Info</a>
+                          <a class="btn btn-primary" href="/CustomerDetail/@s.CustomerId">More info</a>
                         </p>
                     </td>
                  </tr>

@@ -1,5 +1,10 @@
 using Microsoft.AspNetCore.Server.Kestrel.Core; // HttpProtocols
 using Packt.Shared; // AddNorthwindContext extension method
+using Northwind.Web.Pages;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.WebUtilities;
 
 // configure services
 var builder = WebApplication.CreateBuilder(args);
@@ -33,14 +38,16 @@ app.Use(async (HttpContext context, Func<Task> next) =>
     {
         WriteLine($"Endpoint name: {rep.DisplayName}");
         WriteLine($"Endpoint route pattern: {rep.RoutePattern.RawText}");
+
     }
     if (context.Request.Path == "/bonjour")
         {// in the case of a match on URL path, this becomes a terminating delegate that returns so does not call the next delegate
             await context.Response.WriteAsync("Bonjour Monde!");
             return;
         }
-        // we could modify the request before calling the next delegate
-        await next();
+
+    // we could modify the request before calling the next delegate
+    await next();
         // we could modify the response after calling the next delegate
 });
 
@@ -54,6 +61,33 @@ app.UseStaticFiles();
 
 app.MapRazorPages();
 app.MapGet("/hello", () => "Hello World!");
+
+// Add the new endpoint for CustomerDetail
+app.MapGet("/CustomerDetail/{id}", async context =>
+{
+    var id = context.Request.RouteValues["id"]?.ToString();
+    NorthwindContext db = new NorthwindContext();
+    CustomersModel model = new CustomersModel(db);
+
+    // Invoke the CustomerDetail method and get the IActionResult (the Razor Page)
+    var result = model.CustomerDetail(id);
+
+    // Check if the result is a RedirectToPageResult
+    if (result is RedirectToPageResult redirectResult)
+    {
+        // Redirect to the specified page (e.g., /CustomerDetail/{id})
+        var pageName = redirectResult.PageName;
+        var routeValues = new RouteValueDictionary(redirectResult.RouteValues);
+        var queryString = QueryHelpers.AddQueryString("", routeValues.ToDictionary(kv => kv.Key, kv => kv.Value?.ToString()));
+        var url = $"/{pageName}?{queryString}";
+        context.Response.Redirect(url);
+        return;
+    }
+
+    // If the result is not a RedirectToPageResult, it means the CustomerDetail method returned the Razor Page content
+    context.Response.ContentType = "text/html";
+    await context.Response.WriteAsync(result.ToString());
+});
 
 // start the web server
 app.Run();
