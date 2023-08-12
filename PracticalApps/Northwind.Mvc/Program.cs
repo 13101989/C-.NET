@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Northwind.Mvc.Data;
 using Packt.Shared; // AddNorthwindContext extension method
 using System.Net.Http.Headers; // MediaTypeWithQualityHeaderValue
+using System.Net; // HttpVersion
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,6 +28,9 @@ builder.Services.AddOutputCache(options =>
 builder.Services.AddHttpClient(name: "Northwind.WebApi",
   configureClient: options =>
   {
+      options.DefaultRequestVersion = HttpVersion.Version30;
+      options.DefaultVersionPolicy = HttpVersionPolicy.RequestVersionOrLower;
+
       options.BaseAddress = new Uri("https://localhost:5002/");
       options.DefaultRequestHeaders.Accept.Add(
         new MediaTypeWithQualityHeaderValue(

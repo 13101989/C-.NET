@@ -65,6 +65,7 @@ public class CustomersController : ControllerBase
               routeName: nameof(GetCustomer),
               routeValues: new { id = addedCustomer.CustomerId.ToLower() },
               value: addedCustomer);
+            //return await GetCustomer(addedCustomer.Country);
         }
     }
     // PUT: api/customers/[id]

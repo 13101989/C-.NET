@@ -4,6 +4,7 @@ using Packt.Shared; // AddNorthwindContext extension method
 using Northwind.WebApi.Repositories; // ICustomerRepository, CustomerRepository
 using Swashbuckle.AspNetCore.SwaggerUI; // SubmitMethod
 using Microsoft.AspNetCore.HttpLogging; // HttpLoggingFields
+using Microsoft.AspNetCore.Server.Kestrel.Core; // HttpProtocols
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -50,6 +51,18 @@ builder.Services.AddHttpLogging(options =>
 //    options.AdditionalRequestHeaders.Add("x-client-ssl-protocol");
 //});
 
+builder.Services.AddHealthChecks()
+  .AddDbContextCheck<NorthwindContext>();
+
+builder.WebHost.ConfigureKestrel((context, options) =>
+{
+    options.ListenAnyIP(5002, listenOptions =>
+    {
+        listenOptions.Protocols = HttpProtocols.Http1AndHttp2AndHttp3;
+        listenOptions.UseHttps(); // HTTP/3 requires secure connections
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -69,6 +82,10 @@ app.UseHttpLogging();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseHealthChecks(path: "/howdoyoufeel");
+
+app.UseMiddleware<SecurityHeaders>();
 
 app.MapControllers();
 
