@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1X+R1mBowrMrh0G/ZLQ0oG3BYO/W2GaXex3FQq+J0jLvjoOGEQEg2LBIQ5oP4PKeleNF3T1ukqZMO1/wQSCMzA==",
+  "dgSpecHash": "fABhS2J1tx/aD5WC34nbdeC0sPdNw1YKlHuFkZ3KEFxVoAI34YhciYVqnC25vCI7zpwZqrZdAKDQz5beVjvTSw==",
   "success": true,
   "projectFilePath": "C:\\Users\\valen\\Desktop\\cs11dotnet7\\PracticalApps\\Northwind.BlazorWasm\\Client\\Northwind.BlazorWasm.Client.csproj",
   "expectedPackageFiles": [
@@ -45,8 +45,7 @@
     "C:\\Users\\valen\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\valen\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\valen\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\valen\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\valen\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.1\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.1.nupkg.sha512"
+    "C:\\Users\\valen\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

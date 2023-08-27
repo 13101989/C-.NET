@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JZla1MV4FVA8hyrr7xdVEpfgGuD1PNkA8nj4Q2b3tpa0QcOqliYvHnl9U/5HCMzOsKm4sElN9OGMt4DCpPtUdg==",
+  "dgSpecHash": "IYSyZBnQ3pmQxGrhjqeQx3tUYObR7zwqTY6Vs8+haT/aV673mG85mRzNzT2S3g8omiEGfk/dYb762Cf8YPPwzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\valen\\Desktop\\cs11dotnet7\\PracticalApps\\Northwind.BlazorWasm\\Server\\Northwind.BlazorWasm.Server.csproj",
   "expectedPackageFiles": [

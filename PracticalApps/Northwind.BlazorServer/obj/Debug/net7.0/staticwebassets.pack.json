@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\valen\\Desktop\\cs11dotnet7\\PracticalApps\\Northwind.BlazorServer\\wwwroot\\scripts\\interop.js",
+      "PackagePath": "staticwebassets\\scripts\\interop.js"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Northwind.BlazorServer.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

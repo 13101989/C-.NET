@@ -1,0 +1,2 @@
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Northwind.BlazorWasm\Client\bin\Release\net7.0\publish\e_sqlite3.a
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Northwind.BlazorWasm\Client\bin\Release\net7.0\publish\web.config

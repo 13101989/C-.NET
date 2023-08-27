@@ -44,4 +44,8 @@ public class NorthwindService : INorthwindService
             return db.SaveChangesAsync();
         }
     }
+    public List<string?> GetCountries()
+    {
+        return db.Customers.Select(c => c.Country).Distinct().OrderBy(country => country).ToList();
+    }
 }

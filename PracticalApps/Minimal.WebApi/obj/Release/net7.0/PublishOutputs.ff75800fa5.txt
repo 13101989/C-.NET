@@ -1,0 +1,12 @@
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\Minimal.WebApi.exe
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\appsettings.json
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\Minimal.WebApi.dll
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\Minimal.WebApi.deps.json
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\Minimal.WebApi.runtimeconfig.json
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\Minimal.WebApi.pdb
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valen\Desktop\cs11dotnet7\PracticalApps\Minimal.WebApi\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vCFILB016reR5HzihN/3qHGT2PjQJrOC0k5Y4fIcMS8=",
+  "Hash": "6UhsbIh0wkc0wDmbOaKKpezBkwjwKGHkUq+IF3uBYqA=",
   "Source": "Northwind.BlazorServer",
   "BasePath": "_content/Northwind.BlazorServer",
   "Mode": "Default",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\valen\\Desktop\\cs11dotnet7\\PracticalApps\\Northwind.BlazorServer\\wwwroot\\scripts\\interop.js",
+      "SourceId": "Northwind.BlazorServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valen\\Desktop\\cs11dotnet7\\PracticalApps\\Northwind.BlazorServer\\wwwroot\\",
+      "BasePath": "_content/Northwind.BlazorServer",
+      "RelativePath": "scripts/interop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts\\interop.js"
     }
   ]
 }

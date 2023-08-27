@@ -1,0 +1,25 @@
+﻿@page "/timestable/{Number}"
+
+<h3>Timestable</h3>
+
+@if (Number is null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <p><em>Timestable for number: @Number</em></p>
+}
+
+@code {
+    [Parameter]
+    public string? Number { get; set; }
+}
+
+
+
+
+
+
+
+
